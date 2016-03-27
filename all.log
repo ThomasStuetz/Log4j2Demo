@@ -1,0 +1,11 @@
+2016-03-27 11:19:56.479 [main] INFO  MyApp - *** MyApp launched ***
+2016-03-27 11:19:56.480 [main] TRACE MyApp - This is a message on level TRACE
+2016-03-27 11:19:56.480 [main] DEBUG MyApp - This is a message on level DEBUG
+2016-03-27 11:19:56.480 [main] INFO  MyApp - This is a message on level INFO
+2016-03-27 11:19:56.481 [main] WARN  MyApp - This is a message on level WARN
+2016-03-27 11:19:56.481 [main] ERROR MyApp - This is a message on level ERROR
+2016-03-27 11:19:56.481 [main] FATAL MyApp - This is a message on level FATAL
+2016-03-27 11:19:56.482 [main] INFO  MyApp - This is another message on level INFO
+2016-03-27 11:19:56.482 [main] WARN  MyApp - This is another message on level WARN
+2016-03-27 11:19:56.482 [main] ERROR MyApp - This is another message on level ERROR
+2016-03-27 11:19:56.482 [main] FATAL MyApp - This is another message on level FATAL
